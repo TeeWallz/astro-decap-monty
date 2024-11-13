@@ -2,8 +2,8 @@ backend:
   name: github
   repo: TeeWallz/astro-decap-monty
   branch: main # Branch to update (optional; defaults to master)
-  #site_domain: https://example.com
-  #base_url: https://example.com
+  site_domain: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
+  base_url: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
   auth_endpoint: /api/auth
 media_folder: static/img
 public_folder: /img
