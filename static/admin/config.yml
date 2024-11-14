@@ -5,6 +5,7 @@ backend:
   site_domain: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
   base_url: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
   auth_endpoint: /api/auth
+  base_url: https://sveltia-cms-auth.tomku.workers.dev
 media_folder: static/img
 public_folder: /img
 collections:
