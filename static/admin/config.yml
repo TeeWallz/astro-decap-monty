@@ -1,11 +1,16 @@
 backend:
-  name: github
+  name: git-gateway
   repo: TeeWallz/astro-decap-monty
-  branch: main # Branch to update (optional; defaults to master)
-  site_domain: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
-  # base_url: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
-  auth_endpoint: /api/auth
-  base_url: https://sveltia-cms-auth.tomku.workers.dev
+  branch: main
+  identity_url: https://auth.decapbridge.com/sites/83fccf49-d6d9-43f6-8233-14723e7246d0
+  gateway_url: https://gateway.decapbridge.com
+  # name: github
+  # repo: TeeWallz/astro-decap-monty
+  # branch: main # Branch to update (optional; defaults to master)
+  # site_domain: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
+  # # base_url: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
+  # auth_endpoint: /api/auth
+  # base_url: https://sveltia-cms-auth.tomku.workers.dev
 media_folder: static/img
 public_folder: /img
 collections:
