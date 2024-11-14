@@ -3,7 +3,7 @@ backend:
   repo: TeeWallz/astro-decap-monty
   branch: main # Branch to update (optional; defaults to master)
   site_domain: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
-  base_url: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
+  # base_url: https://astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
   auth_endpoint: /api/auth
   base_url: https://sveltia-cms-auth.tomku.workers.dev
 media_folder: static/img
