@@ -1,9 +1,12 @@
 backend:
   name: github
-  repo: gxanshu/astro-decap-cms-starter #replace with your githu repo
+  repo: TeeWallz/astro-decap-monty
   branch: main
+  site_domain: astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
+  base_url: https://sveltia-cms-auth.tomku.workers.dev
+  # auth_endpoint:
   squash_merges: true
-  open_authoring: true
+  # open_authoring: true
 
 publish_mode: editorial_workflow
 media_folder: public/images
