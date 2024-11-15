@@ -3,7 +3,7 @@ backend:
   repo: TeeWallz/astro-decap-monty
   branch: main
   # site_domain: astro.howmanydayssincemontaguestreetbridgehasbeenhit.com
-  base_url: https://sveltia-cms-auth.tomku.workers.dev
+  base_url: sveltia-cms-auth.tomku.workers.dev
   # auth_endpoint:
   # squash_merges: true
   # open_authoring: true
